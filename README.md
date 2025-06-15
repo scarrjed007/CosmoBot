@@ -22,3 +22,9 @@
 1. Клонувати репозиторій:
 ```bash
 git clone https://github.com/scarrjed007/CosmoBot.git
+
+2. Встановити залежності:
+pip install -r requirements.txt
+
+3. Запустити бота:
+python bot.py
