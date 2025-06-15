@@ -3,10 +3,10 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 import requests
 
 # 🔑 ВСТАВ СВІЙ ТОКЕН ТУТ
-TOKEN = "7372879829:AAGRgsBX_VgRAX64yu8TdfvEYdHWSBsdvBQ"
-NASA_API_KEY = "WuuAKTIz3oQfFNl5qcvbHwfnZdqTSGa6baQbHZ2G"
+TOKEN = "YOUR TOKEN"
+NASA_API_KEY = "YOUR TOKEN"
 # 🔑 N2YO.COM API КЛЮЧ ТУТ
-N2YO_API_KEY = "BQHKD4-GKBS5J-QGAYZM-5I72" 
+N2YO_API_KEY = "YOUR TOKEN" 
 
 
 # /start
